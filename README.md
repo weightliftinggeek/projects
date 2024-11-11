@@ -2,6 +2,7 @@
 ## Machine learning (Python)
 https://github.com/weightliftinggeek/Classifying-images-Fashion.git  
 https://github.com/weightliftinggeek/Income-classification.git  
+https://github.com/weightliftinggeek/Data-mining-ML.git
 ## Statistical analysis (R)
 https://github.com/weightliftinggeek/Analysis-of-repeated-measure.git
 ## Data exploration and analysis (R)
