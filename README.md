@@ -6,7 +6,7 @@ https://github.com/weightliftinggeek/Data-mining-ML.git
 ## Statistical analysis (R)
 https://github.com/weightliftinggeek/Analysis-of-repeated-measure.git
 ## Data exploration and analysis (R, Python)
-Movie and Titanic datasets using R: https://github.com/weightliftinggeek/Data-exploration-and-analysis.git
+Movie and Titanic datasets using R: https://github.com/weightliftinggeek/Data-exploration-and-analysis.git  
 Employee retention and Sport analytics using Python: https://github.com/weightliftinggeek/Visual-analytics.git
 ## Big Data (HIVE, SPARK, SQL)
 https://github.com/weightliftinggeek/Big-data.git
