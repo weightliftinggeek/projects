@@ -10,7 +10,7 @@ https://github.com/weightliftinggeek/Data-mining-ML.git
 ### Analysis of repeated measure for 3 datasets of Cognitive, postnatal and Veneer. The project ultilised linear mixed, correlated random effects and marginal models. R statistical package was used. 
 https://github.com/weightliftinggeek/Analysis-of-repeated-measure.git
 ## Dominance matrix: predict 2021 AFL final (Excel).
-https://github.com/weightliftinggeek/Dominance-matrix-AFL-prediction](https://github.com/weightliftinggeek/Dominance-matrix-AFL-prediction.git
+https://github.com/weightliftinggeek/Dominance-matrix-AFL-prediction.git
 ## Data exploration and analysis (R, Python)
 ### Explore the Movie and Titanic datasets visually and derive correlations between variables using R. 
 https://github.com/weightliftinggeek/Data-exploration-and-analysis.git  
