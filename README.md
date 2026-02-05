@@ -1,5 +1,7 @@
 # Projects
 ## Machine learning (Python)
+### Retail forecasting using XGBOOST
+https://github.com/weightliftinggeek/Retail-forecasting/tree/main
 ### Classifying images using Fashion MNIST database. Neural network model using keras library in Python was deployed for this task.
 https://github.com/weightliftinggeek/Classifying-images-Fashion.git
 ### Classifying income classes using income dataset from the US Census. Logistic regression, SVM and Kmeans clustering were deployed in Python Sklearn library.
@@ -22,3 +24,4 @@ https://github.com/weightliftinggeek/Big-data.git
 ## Cloud-based web applications (Docker, Javascript, API, HTML, CSS)
 The project aims to create a simple web application that consists of frontend and backend (API and DB) to keep and maintain all of your contacts. 
 https://github.com/weightliftinggeek/Web-application.git
+
