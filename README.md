@@ -1,5 +1,7 @@
 # Projects
 ## Machine learning (Python)
+### Private hospital charge forecasting using XGBOOST
+https://github.com/weightliftinggeek/Health-Care-Provider-Data-Analysis
 ### Retail forecasting using XGBOOST
 https://github.com/weightliftinggeek/Retail-forecasting/tree/main
 ### Classifying images using Fashion MNIST database. Neural network model using keras library in Python was deployed for this task.
