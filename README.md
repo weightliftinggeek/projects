@@ -1,5 +1,7 @@
 # Projects
 ## Machine learning (Python)
+### Pet insurance high-cost risk prediction
+https://github.com/weightliftinggeek/Pet-insurance-high-cost-risk-prediction
 ### Private hospital charge forecasting using XGBOOST
 https://github.com/weightliftinggeek/Health-Care-Provider-Data-Analysis
 ### Retail forecasting using XGBOOST
